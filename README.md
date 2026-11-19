@@ -443,7 +443,6 @@ Distributed under the **MIT License**. See `LICENSE` for details.
 
 - [Google Gemini API](https://ai.google.dev)
 - [MongoDB Atlas](https://www.mongodb.com/atlas)
-- Original inspiration: [ankurdotio/interview-ai-yt](https://github.com/ankurdotio/interview-ai-yt)
 
 ---
 
