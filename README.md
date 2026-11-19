@@ -203,17 +203,16 @@ backend must explicitly allow the frontend via the `cors()` middleware with
      Recommended: 1200×700 or 1440×900 PNG
      ============================================================ -->
 
-### 🔐 Login / Signup
-![Login Page](./assets/login.png)
+### 🔐 Login / Signup / Register
+![Login Page](https://github.com/xss-pushpensh/WebD-project/blob/main/login.png)
 
 ### 🏠 Dashboard
-![Dashboard](./assets/dashboard.png)
+![Dashboard](https://github.com/xss-pushpensh/WebD-project/blob/main/dashboard.png)
 
 ### 🎤 Interview Session
-![Interview Page](./assets/interview.png)
+![Interview Page](https://github.com/xss-pushpensh/WebD-project/blob/main/output.png)
 
-### 📊 PDF Report
-![PDF Report](./assets/report.png)
+![PDF Report](https://github.com/xss-pushpensh/WebD-project/blob/main/final.png)
 
 ---
 
